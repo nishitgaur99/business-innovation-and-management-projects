@@ -1,5 +1,5 @@
 # Climate Strategy Analysis – NEXT Plc
-*MSc Engineering Management for Sustainable Value*
+*Engineering Management for Sustainable Value*
 
 ## Overview
 This project evaluates NEXT Plc’s carbon footprint and sustainability performance across Scopes 1, 2, and 3, identifying key challenges and strategic opportunities for decarbonisation.
