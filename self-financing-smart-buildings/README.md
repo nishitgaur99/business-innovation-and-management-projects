@@ -1,5 +1,5 @@
 # Self-Financing Smart Buildings
-*MSc Engineering Management for Sustainable Value*
+*Engineering Management for Sustainable Value*
 
 ## Overview
 This project explores how universities can reduce emissions and operating costs by implementing smart building technologies and self-financing models.
