@@ -2,7 +2,7 @@
 *MSc Innovation and Technology Management*
 
 ## Overview  
-This project involved developing a comprehensive, data-driven lifecycle strategy and decision framework to support organisations in making informed operational, commercial, and sustainability decisions. The framework spans the full product lifecycle—from specification and sourcing to manufacturing, use, and end-of-life—and integrates a range of analytical, strategic, and process-improvement tools.
+This project involved developing a comprehensive, data-driven lifecycle strategy and decision framework to support organisations in making informed operational, commercial, and sustainability decisions. The framework spans the full product lifecycle (from specification and sourcing to manufacturing, use, and end-of-life) and integrates a range of analytical, strategic, and process-improvement tools.
 
 ## Overall Lifecycle Framework
 <img src="lifecycle_framework.png" width="850">
