@@ -4,6 +4,9 @@
 ## Overview  
 This project involved developing a comprehensive, data-driven lifecycle strategy and decision framework to support organisations in making informed operational, commercial, and sustainability decisions. The framework spans the full product lifecycle—from specification and sourcing to manufacturing, use, and end-of-life—and integrates a range of analytical, strategic, and process-improvement tools.
 
+## Overall Lifecycle Framework
+<img src="lifecycle_framework.png" width="850">
+
 ## Problem  
 Many organisations struggle to evaluate lifecycle impacts, compare alternative materials or technologies, assess supplier performance, and improve process efficiency in a structured way. Decisions are often made in isolation, limiting opportunities to reduce cost, strengthen supply chain resilience, improve sustainability, and enhance competitive advantage. A unified, strategy-driven, and analytical lifecycle framework was needed to address these gaps.
 
